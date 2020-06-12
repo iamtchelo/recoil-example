@@ -1,4 +1,4 @@
-## What's is Recoil?
+## What is Recoil?
 
 Recoil is a state management library for React created by Facebook. This is a simple demo using Recoil + Github API
 
